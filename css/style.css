@@ -5,7 +5,7 @@
 body {
 	width: 100%;
 	margin: 0px;
-	background-image: url(../images/bg.jpg);
+	background-image: url(http://api.maomeng.cf/xm.php);
 	background-repeat: repeat-y no-repeat;
 	background-size: cover;
 	background-position: center;
